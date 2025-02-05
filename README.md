@@ -11,7 +11,6 @@ This project is a Streamlit application that acts as a travel agency assistant, 
     - Extracts text from each page.  
     - Generates embeddings using Azure OpenAI.
 
-
 *Agent Creation: An OpenAI agent is set up to use embeddings and Bing searches.
 *User Query:
     The user asks a question, and the agent searches the embeddings to return the best answer.
