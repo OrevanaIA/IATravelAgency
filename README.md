@@ -61,7 +61,7 @@ Run the following command in the terminal to start the application:
 streamlit run travelAgency.py
 ```
 
-## 🔄 Using the Application
+##  Using the Application
 
 Upload PDF files containing relevant information for your trip.
 Interact with the travel assistant through the Streamlit user interface.
